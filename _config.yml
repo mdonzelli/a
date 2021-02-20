@@ -1,4 +1,12 @@
 theme: jekyll-theme-minimal
 
 title: Mattia Donzelli
-# description: [A short description of your site's purpose]
+description:
+
+
+github:
+  - is_user_page: false
+
+show_downloads: false
+
+google_analytics: false
