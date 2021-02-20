@@ -13,3 +13,10 @@
 - 2018 – PhD in Medical Physics – The Institute of Cancer Research, University of London, UK
 - 2014 – MSc in Physics – University of Heidelberg, Germany
 - 2012 – BSc in Physics – University of Goettingen, Germany
+
+# What else?
+
+[LinkedIn](https://www.linkedin.com/in/mattia-donzelli/ "my profile on LinkedIn")
+
+[Google Scholar](https://scholar.google.com/citations?user=4g5wHtAAAAAJ "my Google Scholar profile")
+
